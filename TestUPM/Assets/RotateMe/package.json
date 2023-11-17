@@ -1,8 +1,8 @@
 {
   "name": "com.lexnewgate.upmtest",
   "version": "1.0.1",
-  "displayName": "Package Example",
-  "description": "This is an example package",
+  "displayName": "lex first package",
+  "description": "lex package description",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
